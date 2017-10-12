@@ -4,5 +4,6 @@ django-dotenv==1.4.1
 django-uwsgi==0.2.1
 djzen==17.7.1
 pip-save==0.2.0
+psycopg2
 uwsgi==2.0.15
 whitenoise==3.3.1

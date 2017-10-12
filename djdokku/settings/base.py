@@ -26,7 +26,9 @@ BASE_DIR = os.path.dirname(
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.environ.get('SECRET_KEY', None)
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+  'test.neutron.education'
+]
 
 
 # Application definition
